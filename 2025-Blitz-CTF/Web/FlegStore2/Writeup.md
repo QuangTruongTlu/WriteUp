@@ -22,12 +22,19 @@ Và như bạn thấy để mua flag bạn cần có 9999 điểm mới đổi �
 Vậy phải làm như nào ???
 
 Bạn còn nhớ file backup chứ , ta có thể tạo và load lại nó , file backup được tạo ra là 1 file json 
+
 Đây là 1 số nội dung có trong file backup và có 1 dòng đặc biệt
+
 <img src="https://github.com/QuangTruongTlu/WriteUp/blob/main/2025-Blitz-CTF/Web/FlegStore2/Evidence/Evd3.png">
+
 Dòng clickStore : là dòng lưu trữ số lượng click của mình 
+
 Vậy ta sẽ chỉnh sửa dòng này thành 9999 và tải lên lại xem thử
+
 <img src="https://github.com/QuangTruongTlu/WriteUp/blob/main/2025-Blitz-CTF/Web/FlegStore2/Evidence/Evd3.png">
+
 <img src="https://github.com/QuangTruongTlu/WriteUp/blob/main/2025-Blitz-CTF/Web/FlegStore2/Evidence/Evd3.png">
+
 Và giờ chỉ còn việc đi mua flag và flag là của bạn!
 
 ## Flag:Blitz{FlEg_l00t3R_sh0p_Butt_w1th_cl1qu35}

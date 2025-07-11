@@ -1,9 +1,12 @@
 # Web/FlegStore
 
 **🎯 Mức độ challenge:** Dễ
+
 **🏆 Số điểm:** 50 points
+
 **📝 Mô tả:** 
 `I usually want to use this vulnerability in real stores but somehow they are always impenetrable by me. So I decided why not make a store myself. LOL`
+
 **Author (of this challenge)** :```Shadowh```
     
 ---

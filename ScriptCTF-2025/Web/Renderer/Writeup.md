@@ -3,7 +3,7 @@
 
 > `Description` : `Introducing Renderer! A free-to-use app to render your images!`
 
-> `Attachments` : [chall.zip](https://example.com)
+> `Attachments` : [chall.zip](https://github.com/QuangTruongTlu/WriteUp/blob/main/ScriptCTF-2025/Web/Renderer/chall.zip)
 
 > `Flag` : `scriptCTF{my_c00k135_4r3_n0t_s4f3!_9f3fab868a42}`
 ***

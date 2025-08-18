@@ -24,11 +24,11 @@
 | Challenge         | Category     | Value | Time                |
 |-------------------|-------------|-------|---------------------|
 | More Divisors     | Programming | 425   | August 17th, 2:35AM |
-| Just Some Arcade  | Forensics   | 200   | August 16th, 10:02PM|
-| The Insider 3     | OSINT       | 391   | August 16th, 9:21PM |
-| The Insider 2     | OSINT       | 391   | August 16th, 6:40PM |
-| Wizard Gallery    | Web         | 300   | August 16th, 6:21PM |
-| Renderer          | Web         | 300   | August 16th, 12:41PM|
+| Just Some Arcade  | Forensics   | 302   | August 16th, 10:09PM|
+| The Insider 3     | OSINT       | 265   | August 16th, 9:32PM |
+| The Insider 2     | OSINT       | 391   | August 16th, 6:48PM |
+| Wizard Gallery    | Web         | 491   | August 16th, 6:21PM |
+| Renderer          | Web         | 100   | August 16th, 1:24PM |
 
 ![Programming](https://img.shields.io/badge/Programming-20%25-4caf50)
 ![Forensics](https://img.shields.io/badge/Forensics-20%25-2196f3)

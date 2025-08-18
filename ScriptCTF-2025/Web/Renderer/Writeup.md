@@ -101,7 +101,7 @@ def developer():
 >Cách lấy flag quá rõ ràng chỉ cần có được đúng cookie sau đó truy cập vào ```/developer``` là xong.
 Nhưng lấy kiểu gì ? Nếu bạn đã xem qua code bạn có thể thấy không có một giới hạn nào đặt ra cho việc truy cập file từ client side cả điều đó có nghĩa rằng bạn có thể truy cập được file ```secret_cookie.txt``` kia mà không có ràng buộc nào cả.
 
-## Quá trình thực hiện ý tưởng
+## 2. Quá trình thực hiện ý tưởng
 
 > Đầu tiên ta sẽ truy cập thử đường dẫn ```https://webchallenge:port/static/uploads/secrets/secret_cookie.txt```
 để kiểm chứng xem suy đoán có đúng hay không :

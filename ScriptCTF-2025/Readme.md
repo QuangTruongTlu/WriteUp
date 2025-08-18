@@ -39,5 +39,5 @@
 
 
 
-<p align="center">⚡ Made with ❤️ for ScriptCTF 2025 ⚡</p>
+<p align="center">⚡ (ദ്ദി ๑>؂•̀๑) ❤️ ScriptCTF 2025 ⚡</p>
 

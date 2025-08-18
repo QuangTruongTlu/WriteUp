@@ -87,7 +87,7 @@ def logo_small():
     return send_from_directory(app.config['UPLOAD_FOLDER'], 'logo-sm.png')
 ```
 > Đây rồi , Sau khi tìm kiếm loanh quanh thì mình đã tìm được 1 hàm có sử dụng đến `magick`. Cụ thể là khi truy cập `/logo-sm.png` thì nó sẽ kiểm tra xem `logo-sm.png` có tồn tại hay chưa. Nếu chưa sẽ sử dụng chức năng convert của `imagemagick` để resize `logo.png` nhỏ lại.
-> Về `Imagemagick` thì mình đã từng nói có kha khá CVE liên quan tới nó và sau khi mình thử research về cái chức năng kiểu `convert` để resize ảnh thì mình đã tìm thấy 1 CVE liên quan đó chính là `CVE-2022-44268 Arbitrary File Read PoC - PNG generator`
+> Về `Imagemagick` thì mình đã từng nói có kha khá CVE liên quan tới nó và sau khi mình thử research về cái chức năng kiểu `convert` để resize ảnh thì mình đã tìm thấy 1 CVE liên quan đó chính là `CVE-2022-44268 Arbitrary File Read `
 ```md!
 Thông tin về CVE-2022-44268
 - Là 1 lỗ hỏng cho phép attacker đọc file tùy ý trên server bằng cách `Imagemagick` xử lý metadata 
